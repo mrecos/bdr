@@ -13,7 +13,7 @@ setup(
         'six',
         'scipy',
         'tqdm',
-        'glob',
+#        'glob',
 #        'matplotlib', if plot graphs 
 #        'sealion'
      ],
